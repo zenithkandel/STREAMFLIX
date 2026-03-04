@@ -79,7 +79,7 @@ sudo apt install ffmpeg
 ```
 ### 4. Run the Project
 ```bash
-php -S localhost:8000
+php -S localhost:8000 
 ```
 #### Then open http://localhost:8000 in your browser.
 
